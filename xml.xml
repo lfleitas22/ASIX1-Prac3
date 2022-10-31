@@ -1,0 +1,8 @@
+<empleats><!--El Root d'aquest document es empleats-->
+    <empleat><!--Aquest es 1 child del primer root-->
+        <nom>Mustapha</nom> <!--Aquests son el subchilds que te el child empleat-->
+        <cognom>Bouleili Znasni</cognom> 
+        <direcció>Carre Aragon 873</direcció> 
+        <telèfon>626937416</telèfon> 
+    </empleat>
+</empleats> 
