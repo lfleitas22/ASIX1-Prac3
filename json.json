@@ -1,0 +1,24 @@
+{
+    "empleats":{
+        "empleat":[
+        {
+            "nom":"Mustapha",
+            "cognom":"Bouleili Znasni",
+            "direcció":"Carre Aragon 873",
+            "ciutat":"Vic",
+            "email":"20mboulei@jaumebalmes.net",
+            "telèfon":626937416
+        },
+        {
+            "nom":"Edrhian",
+            "cognom":"Valerio Andres",
+            "direcció":"Passeig Sant Joan 473",
+            "ciutat":"Barcelona",
+            "email":"20evalerio@jaumebalmes.net",
+            "telèfon":621683274
+        }
+        ]
+    }
+    
+}
+    

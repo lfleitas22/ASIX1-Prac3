@@ -2,7 +2,17 @@
     <empleat><!--Aquest es 1 child del primer root-->
         <nom>Mustapha</nom> <!--Aquests son el subchilds que te el child empleat-->
         <cognom>Bouleili Znasni</cognom> 
-        <direcció>Carre Aragon 873</direcció> 
+        <direcció>Carre Aragon 873</direcció>
+        <ciutat>Vic</ciutat>
+        <email>20mboulei@jaumebalmes.net</email>
         <telèfon>626937416</telèfon> 
+    </empleat>
+    <empleat>
+        <nom>Edrhian</nom>
+        <cognom>Valerio Andres</cognom> 
+        <direcció>Passeig Sant Joan 473</direcció>
+        <ciutat>Barcelona</ciutat>
+        <email>20evalerio@jaumebalmes.net</email>
+        <telèfon>621683274</telèfon> 
     </empleat>
 </empleats> 
